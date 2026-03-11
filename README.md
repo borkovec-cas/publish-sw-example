@@ -29,7 +29,7 @@ GENERAL INFORMATION
   
 - Key words: example, software, publication
 
-- Field of study: <e.g. https://vyzkum.gov.cz/storage/att/E6EF7938F0E854BAE520AC119FB22E8D/Prevodnik_oboru_Frascati.pdf>
+- Field of study: [Pick one here](https://vyzkum.gov.cz/storage/att/0383BBC06D66DDC5268DD25A278E5DB1/Prevodnik_oboru_FORD_Scopus.pdf)
 
 ----------------------
 LEGAL AND ETHICAL ASPECTS
