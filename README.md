@@ -10,7 +10,7 @@ GENERAL INFORMATION
 
 - Software title: Example Software
 
-- Dataset DOI: 10.5072/zenodo.447283
+- Software DOI: 10.5072/zenodo.447283
   *(Note: You can reserve a new DOI in Zenodo -> New Upload -> Do you already have a DOI for this upload? -> No, I need one -> Get a DOI now!)*
 
 - Author: John Doe, ORCID: https://sandbox.orcid.org/0009-0006-2424-7712
