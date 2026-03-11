@@ -64,8 +64,8 @@ ORIGIN AND METHODOLOGY
 HOW TO USE THIS SOFTWARE
 ----------------------
 
-- Execute it with command "python3 hello_world.py" to see the beautiful message!
-- (Note: requirements.txt or environment.yml file should be included to specify the necessary libraries.)
+- Execute it with command `python3 hello_world.py` to see the beautiful message!
+- *(Note: requirements.txt or environment.yml file should be included to specify the necessary libraries.)*
   
 ----------------------
 CITATION OF THIS SOFTWARE
